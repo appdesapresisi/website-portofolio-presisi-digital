@@ -6,6 +6,7 @@ import "../src/../index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    
+    <h1 style={{ color: 'white' }}>Tes Koneksi Berhasil!</h1>
   </React.StrictMode>
 );
